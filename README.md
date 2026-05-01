@@ -17,6 +17,7 @@ Using Latent Dirichlet Allocation (LDA), we identify the main themes discussed a
    - Output: structured dataset saved in `data/preprocessed/`
 
 3. **Topic Modeling (LDA)**   
+    *(see `notebooks/2_LDA.ipynb`)* 
 
 4. **Market Link (optional)**  
    *(see `notebooks/3_LDA_x_Market_Data.ipynb`)*  
